@@ -11,11 +11,11 @@ Este projeto consiste uma aplicação Web em DotNET, consumindo o uso de API a r
 ![FrontEnd Cadatrar](FrontCadastrar.jpg)
 
 ## API
-![POST](Backend POST.jpg)
+![POST](POST.jpg)
 
-![GET](Backend GET.jpg)
+![GET](GET.jpg)
 
-![DELETE](Backend DELETE.jpg)
+![DELETE](DELETE.jpg)
 
 ##  
 ![Modelo Conceitual](https://github.com)
