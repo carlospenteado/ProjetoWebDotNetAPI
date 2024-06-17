@@ -11,14 +11,17 @@ Este projeto consiste uma aplicação Web em DotNET, consumindo o uso de API a r
 ![FrontEnd Cadatrar](FrontCadastrar.jpg)
 
 ## API
-![POST](POST.jpg)
+![POST](https://github.com/carlospenteado/ProjetoWebDotNetAPI/blob/main/Backend%20POST.jpg)
 
-![GET](GET.jpg)
+![GET](https://github.com/carlospenteado/ProjetoWebDotNetAPI/blob/main/Backend%20GET.jpg)
 
-![DELETE](DELETE.jpg)
+![DELETE](https://github.com/carlospenteado/ProjetoWebDotNetAPI/blob/main/Backend%20DELETE.jpg)
 
-##  
-![Modelo Conceitual](https://github.com)
+## Conexão Front arquivo Cadastrar com BackEnd utilizando POST 
+![POST](CadastroPOST.jpg)
+
+## Conexão Front arquivo Lista com BackEnd utilizando GET e DELETE 
+![POST](ListaGETDELETE.jpg)
 
 # Tecnologias utilizadas
 ## Back end
