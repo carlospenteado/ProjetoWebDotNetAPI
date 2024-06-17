@@ -8,12 +8,14 @@ Este projeto é uma aplicação web construído a partir do modelo da aula **Pro
 Este projeto consiste uma aplicação Web em DotNET, consumindo o uso de API a request envia um arquivo JSON o qual é reponsável a requisição ente a comunicação de seu Front e BackEnd, e ainda este uso da API responsavel pela aplicação das Routes categoria (POST) contida em nossa Controller responsavel pelo cadastro de dados na aplicação Web, e este cadastro salva em nosso banco de dados interno. E também o uso da categoria (GET) para listagem dos dados em nosso banco e retorno API response, e (DELETE) para exclusão destes dados em nosso sistema Web.
 
 ## Layout WEB FrontEnd
-![Mobile 1](https://github.com/) ![Mobile 2](https://github.com/acenelio/)
+![FrontEnd Cadatrar](FrontCadastrar.jpg)
 
 ## API
-![Web 1](https://github.com/g)
+![POST](BackendPOST.jpg)
 
-![Web 2](https://github.com/)
+![GET](BackendGET.jpg)
+
+![DELETE](BackendDELETE.jpg)
 
 ##  
 ![Modelo Conceitual](https://github.com)
