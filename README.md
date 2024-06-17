@@ -21,7 +21,7 @@ Este projeto consiste uma aplicação Web em DotNET, consumindo o uso de API a r
 ![POST](CadastroPOST.jpg)
 
 ## Conexão Front arquivo Lista com BackEnd utilizando GET e DELETE 
-![POST](ListaGETDELETE.jpg)
+![POST](https://github.com/carlospenteado/ProjetoWebDotNetAPI/blob/main/ListaGET%20DELETE.jpg)
 
 # Tecnologias utilizadas
 ## Back end
