@@ -37,4 +37,4 @@ Este projeto consiste uma aplicação Web em DotNET, consumindo o uso de API a r
 
 Carlos de Camargo Penteado Neto
 
-[https://www.linkedin.com/in/carlosde-camargo-penteado-neto-83974430]
+[https://www.linkedin.com/in/carlos-de-camargo-penteado-neto-83974430]
